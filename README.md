@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melo
+- 👋 Hi, I’m @Lory
 - 💻 喜欢写bug，面向GitHub编程
 - 🤖️ 喜欢CV和NLP
 

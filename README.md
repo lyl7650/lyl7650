@@ -1,4 +1,3 @@
-- 👋 
 - 努力写一些基础的算法实现
 - Data Science ｜ Machine Learning ｜ Deep Learning
 - NLP & CV
